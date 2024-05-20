@@ -31,6 +31,7 @@ public partial class MainPage : ContentPage
 
 
 		var blob = new Blob();
+
 		blob.SetBlob("asfsafasfasfasfa");
 
 		var valueBlobk = blob.GetBlob;

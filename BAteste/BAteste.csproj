@@ -66,6 +66,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\DatablinkBindingIOS\LibTestBindingIOS.csproj" />
+	  <ProjectReference Include="..\LibTestBindingIOS\LibTestBindingIOS.csproj" />
 	</ItemGroup>
 </Project>
