@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
+#if IOS
 using LibTest;
-
+#endif
 namespace BAteste;
 
 public static class MauiProgram

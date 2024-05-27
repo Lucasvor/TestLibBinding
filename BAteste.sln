@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAteste", "BAteste\BAteste.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTestBindingIOS", "LibTestBindingIOS\LibTestBindingIOS.csproj", "{AE79BD2F-44AB-49EC-9D74-F2FDB0470BE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTestBindingAndroid", "LibTestBindingAndroid\LibTestBindingAndroid.csproj", "{BEBCA741-6439-404C-AA30-8B38937E2C68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AE79BD2F-44AB-49EC-9D74-F2FDB0470BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE79BD2F-44AB-49EC-9D74-F2FDB0470BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE79BD2F-44AB-49EC-9D74-F2FDB0470BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEBCA741-6439-404C-AA30-8B38937E2C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBCA741-6439-404C-AA30-8B38937E2C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBCA741-6439-404C-AA30-8B38937E2C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBCA741-6439-404C-AA30-8B38937E2C68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

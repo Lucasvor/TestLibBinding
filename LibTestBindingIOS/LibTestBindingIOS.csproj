@@ -16,4 +16,7 @@
       <SmartLink>False</SmartLink>
     </NativeReference>
   </ItemGroup>
+  <PropertyGroup>
+    <NoBindingEmbedding>false</NoBindingEmbedding>
+    </PropertyGroup>
 </Project>
